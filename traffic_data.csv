@@ -1,0 +1,1201 @@
+origin,destination,distance,duration,duration_in_traffic,timestamp
+"Durham, North Carolina","New York, New York",785 km,7 hours 30 mins,7 hours 18 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Baltimore, Maryland",485 km,4 hours 42 mins,4 hours 35 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 13 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 47 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 12 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 11 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 48 mins,2024-11-23 00:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,128 km",10 hours 53 mins,10 hours 32 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 42 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 17 mins,2024-11-23 00:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,4 hours 1 min,3 hours 57 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 10 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 59 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 13 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",647 km,6 hours 10 mins,6 hours 2 mins,2024-11-23 00:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 43 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 54 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 47 mins,2024-11-23 00:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 00:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 19 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 49 mins,2024-11-23 00:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 20 mins,2024-11-23 00:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,,2024-11-23 00:00:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 52 mins,2024-11-23 00:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 16 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 7 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 46 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 18 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 36 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 00:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 21 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 00:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,31 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 00:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 40 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 25 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 48 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 00:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 00:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,,2024-11-23 00:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 00:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 15 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 40 mins,2024-11-23 00:01:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 40 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,4 hours 1 min,3 hours 56 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,128 km",10 hours 53 mins,10 hours 43 mins,2024-11-23 01:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 47 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 15 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 46 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 12 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Baltimore, Maryland",485 km,4 hours 42 mins,4 hours 34 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,,2024-11-23 01:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 10 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 17 mins,2024-11-23 01:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,,2024-11-23 01:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 58 mins,2024-11-23 01:00:00
+"Durham, North Carolina","New York, New York",785 km,7 hours 30 mins,7 hours 17 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 51 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 13 mins,2024-11-23 01:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 42 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",647 km,6 hours 10 mins,6 hours 0 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 46 mins,2024-11-23 01:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 17 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 46 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 17 mins,2024-11-23 01:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 9 mins,2024-11-23 01:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 01:00:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 01:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 19 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 01:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 34 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 44 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 6 mins,2024-11-23 01:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 14 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 51 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 17 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,30 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 38 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 38 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 23 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 48 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 01:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 01:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 01:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 01:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 01:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 13 mins,2024-11-23 01:01:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 50 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 23 mins,2024-11-23 02:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 02:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 41 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 7 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,16 hours 57 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 6 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 02:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 36 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 27 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 27 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 9 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 02:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 02:00:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 02:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 16 hours,2024-11-23 02:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 12 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 5 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,16 hours 58 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 43 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,18 hours 57 mins,2024-11-23 02:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 02:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 28 mins,2024-11-23 02:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 02:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 28 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 50 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 02:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 41 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 51 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 12 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 02:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 7 mins,2024-11-23 02:00:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 02:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 02:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 4 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 47 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 38 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 4 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 02:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 20 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 02:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 32 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,30 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 30 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 26 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 11 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 42 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 02:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 02:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 41 mins,2024-11-23 02:01:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,18 hours 52 mins,2024-11-23 03:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,,2024-11-23 03:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 11 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 3 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,16 hours 55 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 41 mins,2024-11-23 03:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 03:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 10 mins,2024-11-23 03:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 03:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 28 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 50 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 40 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 53 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 03:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 10 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 25 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,,2024-11-23 03:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 03:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 51 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 30 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 4 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 34 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 03:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 03:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 27 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 6 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 39 mins,2024-11-23 03:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 03:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 38 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,16 hours 53 mins,2024-11-23 03:00:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 39 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 45 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 38 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 1 min,2024-11-23 03:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 32 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 03:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 18 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 03:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,30 mins,2024-11-23 03:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 1 min,2024-11-23 03:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 26 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 10 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 39 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,,2024-11-23 03:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 03:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 03:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 03:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 03:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 10 mins,2024-11-23 03:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 31 mins,2024-11-23 03:01:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 12 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 42 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,4 hours 1 min,3 hours 56 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,983 km",17 hours 59 mins,17 hours 32 mins,2024-11-23 04:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 16 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 10 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,778 km",1 day 10 hours,1 day 9 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,128 km",10 hours 53 mins,11 hours 37 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 6 mins,2024-11-23 04:00:00
+"Durham, North Carolina","San Jose, California","4,530 km",1 day 17 hours,1 day 16 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 41 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 2 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 33 mins,2024-11-23 04:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 04:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 32 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",647 km,6 hours 10 mins,6 hours 3 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,589 km",1 day 8 hours,1 day 8 hours,2024-11-23 04:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 40 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Chicago, Illinois","1,262 km",12 hours 0 mins,11 hours 57 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Los Angeles, California","4,118 km",1 day 13 hours,1 day 13 hours,2024-11-23 04:00:00
+"Durham, North Carolina","New York, New York",785 km,7 hours 30 mins,7 hours 30 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 2 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Nashville, Tennessee",826 km,8 hours 2 mins,7 hours 56 mins,2024-11-23 04:00:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 22 mins,13 hours 11 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,857 km",1 day 2 hours,1 day 1 hour,2024-11-23 04:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 04:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 8 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Baltimore, Maryland",485 km,4 hours 42 mins,4 hours 36 mins,2024-11-23 04:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 7 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 43 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,879 km",17 hours 4 mins,16 hours 36 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 52 mins,17 hours 32 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 04:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 20 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Long Beach, California","4,140 km",1 day 13 hours,1 day 13 hours,2024-11-23 04:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,954 km",18 hours 6 mins,17 hours 47 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 54 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 37 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 39 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 18 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 41 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 04:01:00
+"Durham, North Carolina","Mesa, Arizona","3,505 km",1 day 8 hours,1 day 7 hours,2024-11-23 04:01:00
+"Durham, North Carolina","Fresno, California","4,319 km",1 day 15 hours,1 day 14 hours,2024-11-23 04:01:00
+"Durham, North Carolina","Memphis, Tennessee","1,165 km",11 hours 4 mins,10 hours 56 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,29 mins,2024-11-23 04:01:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 8 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 9 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 1 min,2024-11-23 05:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 6 mins,2024-11-23 05:00:00
+"Durham, North Carolina","San Jose, California","4,530 km",1 day 17 hours,1 day 16 hours,2024-11-23 05:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 33 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,589 km",1 day 8 hours,1 day 8 hours,2024-11-23 05:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 34 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",647 km,6 hours 10 mins,6 hours 5 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 42 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 57 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Los Angeles, California","4,118 km",1 day 13 hours,1 day 13 hours,2024-11-23 05:00:00
+"Durham, North Carolina","New York, New York",785 km,7 hours 30 mins,7 hours 34 mins,2024-11-23 05:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 05:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 05:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 15 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 39 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 45 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,4 hours 1 min,3 hours 54 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,128 km",10 hours 53 mins,11 hours 36 mins,2024-11-23 05:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 05:00:00
+"Durham, North Carolina","Nashville, Tennessee",826 km,8 hours 2 mins,7 hours 55 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 19 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,983 km",17 hours 59 mins,17 hours 33 mins,2024-11-23 05:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 05:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 05:00:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,30 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Long Beach, California","4,140 km",1 day 13 hours,1 day 13 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 17 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 53 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,879 km",17 hours 4 mins,16 hours 37 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 42 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 37 mins,2024-11-23 05:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 8 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 52 mins,17 hours 34 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 41 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,954 km",18 hours 6 mins,17 hours 51 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 42 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 20 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Las Vegas, Nevada","3,778 km",1 day 10 hours,1 day 9 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Memphis, Tennessee","1,165 km",11 hours 4 mins,10 hours 53 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Baltimore, Maryland",485 km,4 hours 42 mins,4 hours 35 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 22 mins,13 hours 12 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 11 mins,2024-11-23 05:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Fresno, California","4,319 km",1 day 15 hours,1 day 14 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Mesa, Arizona","3,505 km",1 day 8 hours,1 day 7 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 05:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,857 km",1 day 2 hours,1 day 1 hour,2024-11-23 05:01:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 3 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 44 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 30 mins,2024-11-23 06:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 06:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 37 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,16 hours 53 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 3 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 06:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 30 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,7 hours 53 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 26 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 31 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 06:00:00
+"Durham, North Carolina","Seattle, Washington","4,536 km",1 day 17 hours,1 day 17 hours,2024-11-23 06:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 11 hours,2024-11-23 06:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 16 hours,2024-11-23 06:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 06:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,8 hours 56 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 41 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Houston, Texas","1,958 km",18 hours 10 mins,17 hours 29 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 55 mins,2024-11-23 06:00:00
+"Durham, North Carolina","San Antonio, Texas","2,241 km",20 hours 43 mins,19 hours 57 mins,2024-11-23 06:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 28 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 06:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 06:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,18 hours 46 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 36 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,16 hours 46 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,6 hours 54 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 7 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 18 mins,2024-11-23 06:00:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 15 mins,2024-11-23 06:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,11 hours 56 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 38 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 44 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 0 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 27 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 06:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 06:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 29 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,29 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 29 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 29 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 1 min,2024-11-23 06:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 35 mins,2024-11-23 06:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 06:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 06:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 06:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 06:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 06:01:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 44 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 38 mins,2024-11-23 07:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 07:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 39 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,9 hours 59 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,16 hours 57 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 31 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 07:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 32 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,7 hours 53 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 34 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,12 hours 59 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 07:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,,2024-11-23 07:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 07:00:00
+"Durham, North Carolina","Houston, Texas","1,958 km",18 hours 10 mins,17 hours 36 mins,2024-11-23 07:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 16 hours,2024-11-23 07:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 38 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Los Angeles, California","4,076 km",1 day 12 hours,1 day 12 hours,2024-11-23 07:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 37 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,8 hours 54 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 6 mins,2024-11-23 07:00:00
+"Durham, North Carolina","San Antonio, Texas","2,241 km",20 hours 43 mins,20 hours 5 mins,2024-11-23 07:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 07:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 07:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 07:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,18 hours 55 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 38 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,16 hours 51 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,6 hours 51 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 6 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 24 mins,2024-11-23 07:00:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 07:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,11 hours 58 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 51 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 4 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 24 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 07:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 14 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 27 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 44 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 32 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 29 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,14 hours 59 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 38 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 07:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 07:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 07:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 07:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,29 mins,2024-11-23 07:01:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,8 hours 55 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 08:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,7 hours 54 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 40 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 08:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 47 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 8 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,9 hours 59 mins,2024-11-23 08:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 08:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 08:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 36 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 08:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 45 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 38 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,6 hours 52 mins,2024-11-23 08:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 08:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 6 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 30 mins,2024-11-23 08:00:00
+"Durham, North Carolina","San Antonio, Texas","2,241 km",20 hours 43 mins,20 hours 10 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 13 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 08:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 08:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 38 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 08:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 48 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 1 min,2024-11-23 08:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 40 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,16 hours 58 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Houston, Texas","1,958 km",18 hours 10 mins,17 hours 43 mins,2024-11-23 08:00:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,29 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 55 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 13 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 26 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 08:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 14 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 13 hours,2024-11-23 08:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 33 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 35 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 08:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 0 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 42 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 08:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 08:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 1 min,2024-11-23 08:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 08:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 08:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,12 hours 59 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 37 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 35 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 50 mins,2024-11-23 08:01:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 37 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 46 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,7 hours 56 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 44 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 16 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 0 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 50 mins,2024-11-23 09:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 40 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 49 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 44 mins,2024-11-23 09:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,8 hours 0 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,,2024-11-23 09:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 6 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,6 hours 54 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 43 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 5 mins,2024-11-23 09:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 33 mins,2024-11-23 09:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 09:00:00
+"Durham, North Carolina","San Antonio, Texas","2,241 km",20 hours 43 mins,20 hours 14 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 23 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 8 hours,2024-11-23 09:00:00
+"Durham, North Carolina","Houston, Texas","1,958 km",18 hours 10 mins,17 hours 45 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,8 hours 57 mins,2024-11-23 09:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 1 min,2024-11-23 09:00:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 09:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 09:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,12 hours 57 mins,2024-11-23 09:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 4 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 54 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 22 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 25 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 09:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 14 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 13 hours,2024-11-23 09:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 55 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,30 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 39 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 39 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 5 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 44 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 09:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 09:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 09:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 37 mins,2024-11-23 09:01:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 4 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,1 day 0 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 58 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 49 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 48 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 6 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 18 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 10:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 10:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 6 mins,2024-11-23 10:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 12 mins,2024-11-23 10:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,8 hours 12 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 1 min,2024-11-23 10:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 42 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 50 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 8 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 35 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 10:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 10:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 44 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 14 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 45 mins,2024-11-23 10:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 43 mins,2024-11-23 10:00:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,30 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 4 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 56 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 23 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 31 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 10:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 15 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,,2024-11-23 10:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 48 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 37 mins,2024-11-23 10:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 11 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 12 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 54 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 3 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 56 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 0 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 10:01:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 44 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,,2024-11-23 10:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,,2024-11-23 10:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 10:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 49 mins,2024-11-23 10:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 10:01:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,4 hours 8 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 58 mins,2024-11-23 11:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 43 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 15 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,,2024-11-23 11:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 40 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 10 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,5 hours 4 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 14 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 13 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,1 day 0 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 53 mins,2024-11-23 11:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,8 hours 18 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 51 mins,2024-11-23 11:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 11:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 45 mins,2024-11-23 11:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 42 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 8 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 45 mins,2024-11-23 11:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,,2024-11-23 11:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 13 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 43 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 14 mins,2024-11-23 11:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 9 mins,2024-11-23 11:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 11:00:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 14 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 5 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 50 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 21 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 43 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 15 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,977 km",18 hours 14 mins,18 hours 5 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 34 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,1 day 0 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 21 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 51 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 11:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 11:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,31 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 9 mins,2024-11-23 11:01:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,1 day 0 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 55 mins,2024-11-23 12:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 39 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 39 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 16 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 14 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 11 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 13 mins,2024-11-23 12:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,4 hours 12 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 9 mins,2024-11-23 12:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,8 hours 17 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 8 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 59 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 42 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 52 mins,2024-11-23 12:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 51 mins,2024-11-23 12:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 12:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 19 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 43 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 19 mins,2024-11-23 12:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 47 mins,2024-11-23 12:00:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,18 hours 5 mins,2024-11-23 12:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 19 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 11 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 44 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 22 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 15 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,31 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 44 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,1 day 0 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 27 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 49 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 12:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 12:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 10 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 32 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,5 hours 7 mins,2024-11-23 12:01:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 18 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,1 day 0 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,4 hours 10 mins,2024-11-23 13:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 11 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 12 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 12 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 34 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 34 mins,2024-11-23 13:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 42 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 6 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 9 mins,2024-11-23 13:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,8 hours 7 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 50 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 57 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 13:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 13:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 48 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 53 mins,2024-11-23 13:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 13:00:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 32 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 43 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 21 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 34 mins,2024-11-23 13:00:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 44 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 19 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 45 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 13:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 14 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 13:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,18 hours 1 min,2024-11-23 13:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,32 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 34 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 50 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 25 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,,2024-11-23 13:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 13:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 13:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 13:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 11 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,5 hours 1 min,2024-11-23 13:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 8 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,1 day 0 hours,2024-11-23 13:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 13:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 22 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 12 mins,2024-11-23 13:01:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 48 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 15 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 2 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 37 mins,2024-11-23 14:00:00
+"Durham, North Carolina","El Paso, Texas","2,936 km",1 day 2 hours,1 day 2 hours,2024-11-23 14:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,11 hours 8 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 54 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 14:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 4 mins,2024-11-23 14:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,,2024-11-23 14:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,6 hours 57 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,966 km",17 hours 52 mins,17 hours 32 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 11 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 18 mins,2024-11-23 14:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 45 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 14:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 43 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 57 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 41 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 19 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 14:00:00
+"Durham, North Carolina","San Diego, California","4,047 km",1 day 13 hours,1 day 12 hours,2024-11-23 14:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 53 mins,2024-11-23 14:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 14:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 44 mins,2024-11-23 14:00:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,34 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 16 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 52 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 14:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 18 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 40 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 12 mins,2024-11-23 14:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 19 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 30 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 34 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 46 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 36 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 49 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 23 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 53 mins,2024-11-23 14:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 1 min,2024-11-23 14:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 1 min,2024-11-23 14:01:00
+"Durham, North Carolina","Tucson, Arizona","3,450 km",1 day 7 hours,1 day 6 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 14:01:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 37 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 52 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 55 mins,2024-11-23 15:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 2 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 50 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 0 mins,2024-11-23 15:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 41 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 38 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 0 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 48 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 15 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 4 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 44 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 11 mins,2024-11-23 15:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 15:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 35 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 15 mins,2024-11-23 15:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,,2024-11-23 15:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 57 mins,2024-11-23 15:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 15:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 14 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 39 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 16 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,6 hours 57 mins,2024-11-23 15:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 49 mins,2024-11-23 15:00:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 18 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 52 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 7 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 39 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 20 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 36 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 15:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 15 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 15:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,34 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 15:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 48 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 24 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 46 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 15:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,,2024-11-23 15:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 15:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 15:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 4 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 29 mins,2024-11-23 15:01:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 38 mins,2024-11-23 16:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 16:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 8 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,128 km",10 hours 53 mins,10 hours 48 mins,2024-11-23 16:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 16:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 4 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 42 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 16:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 38 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 3 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 50 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 11 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 13 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 1 min,2024-11-23 16:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 16:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 41 mins,2024-11-23 16:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 27 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 11 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 16:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 49 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 50 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 16:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 16:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 16:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 34 mins,2024-11-23 16:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 16:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 44 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Austin, Texas","2,115 km",19 hours 31 mins,19 hours 9 mins,2024-11-23 16:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",647 km,6 hours 10 mins,6 hours 10 mins,2024-11-23 16:00:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 13 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 3 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 40 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 18 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 38 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 15 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 16:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 56 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,34 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 16:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 40 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 24 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 42 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 16:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 16:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 16:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 16:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 16:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 9 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 32 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Baltimore, Maryland",485 km,4 hours 42 mins,4 hours 43 mins,2024-11-23 16:01:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 38 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 51 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 38 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 39 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 5 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 13 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 9 mins,2024-11-23 17:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 17:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 17:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 1 min,2024-11-23 17:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 19 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 51 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 11 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 2 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 45 mins,2024-11-23 17:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 17:00:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 13 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 44 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 12 mins,2024-11-23 17:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 32 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 49 mins,2024-11-23 17:00:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 17 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 54 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 17:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 25 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 37 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 18 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 43 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 4 mins,2024-11-23 17:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 14 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 17:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,34 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 17:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 38 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 35 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 40 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 36 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 11 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 5 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 17:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 17:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 17:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 41 mins,2024-11-23 17:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 17:01:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 46 mins,2024-11-23 18:04:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 10 mins,2024-11-23 18:04:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,,2024-11-23 18:04:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 12 mins,2024-11-23 18:04:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 1 min,2024-11-23 18:04:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 9 mins,2024-11-23 18:04:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 17 hours,2024-11-23 18:04:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 10 mins,2024-11-23 18:04:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 11 hours,2024-11-23 18:04:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 42 mins,2024-11-23 18:04:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 18:04:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 51 mins,2024-11-23 18:04:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 46 mins,2024-11-23 18:04:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 19 mins,2024-11-23 18:04:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 2 mins,2024-11-23 18:04:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 29 mins,2024-11-23 18:04:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 18:04:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 19 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 53 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Raleigh, North Carolina",40.5 km,33 mins,34 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 39 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 37 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 28 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 41 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 53 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 10 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,,2024-11-23 18:05:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 38 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 35 mins,2024-11-23 18:05:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 18:05:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 18:05:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 8 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 39 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 18:05:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 42 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 7 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 36 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 13 mins,2024-11-23 18:05:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 33 mins,2024-11-23 18:06:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 20 mins,2024-11-23 18:06:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 46 mins,2024-11-23 18:06:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 1 min,2024-11-23 18:06:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 14 mins,2024-11-23 18:06:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 19:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 13 mins,2024-11-23 19:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 19:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 12 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 3 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 8 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 47 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 14 mins,2024-11-23 19:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 17 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 41 mins,2024-11-23 19:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 19:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 31 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,6 hours 0 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 19:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 47 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 53 mins,2024-11-23 19:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 19:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 17 hours,2024-11-23 19:00:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 19:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 19:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 19:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,33 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 37 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 41 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 19:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 55 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 29 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 10 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 40 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 9 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 34 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 39 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 52 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 31 mins,2024-11-23 19:01:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 19:01:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 41 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 19:01:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 16 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 19:01:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 19:01:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 46 mins,2024-11-23 19:01:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 8 mins,2024-11-23 19:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 16 mins,2024-11-23 19:02:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 0 mins,2024-11-23 19:02:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 47 mins,2024-11-23 19:02:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 22 mins,2024-11-23 19:02:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 32 mins,2024-11-23 19:02:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 19:02:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 19 mins,2024-11-23 19:02:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 19:02:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 36 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 51 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 28 mins,2024-11-23 20:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 20:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 42 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 13 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 20:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 20:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 20:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 47 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 11 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 11 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 31 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 14 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 12 mins,2024-11-23 20:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 20:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 14 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 12 hours,2024-11-23 20:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 52 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 48 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 20:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 57 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 42 mins,2024-11-23 20:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 20:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 20:00:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 15 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 48 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 11 mins,2024-11-23 20:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 34 mins,2024-11-23 20:00:00
+"Durham, North Carolina","Columbus, Ohio",734 km,7 hours 11 mins,7 hours 5 mins,2024-11-23 20:00:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 17 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 48 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 21 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 29 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 20:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 18 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 12 hours,2024-11-23 20:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 52 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 2 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 40 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,32 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 20:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 20:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 20:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 8 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 20:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 40 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 26 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 33 mins,2024-11-23 20:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 20:01:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 32 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 51 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 23 mins,2024-11-23 21:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 21:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 46 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 13 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 21:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 21:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 21:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 49 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 12 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 29 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 8 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 17 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 47 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 13 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 6 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 12 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 17 mins,2024-11-23 21:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 21:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 42 mins,2024-11-23 21:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 21:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 37 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 56 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 21:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 53 mins,2024-11-23 21:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 13 hours,2024-11-23 21:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 12 mins,2024-11-23 21:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 21:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 50 mins,2024-11-23 21:00:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 19 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 9 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,17 hours 3 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 47 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 21 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 31 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 18 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 13 hours,2024-11-23 21:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 52 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,31 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 17 hours,2024-11-23 21:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 30 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 23 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 42 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 21:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 21:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 21:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 21:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 21:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 37 mins,2024-11-23 21:01:00
+"Durham, North Carolina","Columbus, Ohio",734 km,7 hours 11 mins,7 hours 6 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 12 mins,2024-11-23 22:05:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 22:05:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 15 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 20 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 31 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 50 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 9 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,1 day 17 hours,2024-11-23 22:05:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 46 mins,2024-11-23 22:05:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 22:05:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 22:05:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 37 mins,2024-11-23 22:05:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 31 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 55 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 22:05:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 44 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 50 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 13 hours,2024-11-23 22:05:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 12 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 11 mins,2024-11-23 22:05:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 21 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 30 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 34 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 49 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 14 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 19 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 59 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 29 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 17 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 46 mins,2024-11-23 22:06:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 13 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 41 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,31 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 45 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 9 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 8 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 22:06:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 22:06:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 11 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 28 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 22:06:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 6 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 22:06:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 46 mins,2024-11-23 22:06:00
+"Durham, North Carolina","Denver, Colorado","2,649 km",1 day 0 hours,23 hours 30 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Washington, D.C.",415 km,3 hours 54 mins,3 hours 52 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Boston, Massachusetts","1,119 km",10 hours 48 mins,10 hours 19 mins,2024-11-23 23:00:00
+"Durham, North Carolina","El Paso, Texas","2,898 km",1 day 2 hours,1 day 1 hour,2024-11-23 23:00:00
+"Durham, North Carolina","Nashville, Tennessee",849 km,7 hours 48 mins,7 hours 45 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Portland, Oregon","4,575 km",1 day 17 hours,1 day 17 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Oklahoma City, Oklahoma","1,937 km",17 hours 25 mins,17 hours 4 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Las Vegas, Nevada","3,732 km",1 day 9 hours,1 day 9 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Memphis, Tennessee","1,188 km",10 hours 50 mins,10 hours 43 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Louisville, Kentucky",869 km,8 hours 13 mins,8 hours 10 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Indianapolis, Indiana",971 km,9 hours 19 mins,9 hours 16 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Baltimore, Maryland",477 km,4 hours 36 mins,4 hours 29 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Detroit, Michigan","1,059 km",10 hours 17 mins,10 hours 8 mins,2024-11-23 23:00:00
+"Durham, North Carolina","San Francisco, California","4,551 km",1 day 17 hours,1 day 17 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Seattle, Washington","4,588 km",1 day 17 hours,,2024-11-23 23:00:00
+"Durham, North Carolina","Columbus, Ohio",731 km,7 hours 8 mins,7 hours 8 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Charlotte, North Carolina",234 km,2 hours 13 mins,2 hours 12 mins,2024-11-23 23:00:00
+"Durham, North Carolina","New York, New York",777 km,7 hours 25 mins,7 hours 13 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Los Angeles, California","4,072 km",1 day 12 hours,1 day 13 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Houston, Texas","1,894 km",17 hours 6 mins,16 hours 41 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Phoenix, Arizona","3,479 km",1 day 7 hours,1 day 7 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Philadelphia, Pennsylvania",639 km,6 hours 5 mins,5 hours 57 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Chicago, Illinois","1,261 km",12 hours 2 mins,11 hours 51 mins,2024-11-23 23:00:00
+"Durham, North Carolina","San Diego, California","4,062 km",1 day 12 hours,1 day 12 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Dallas, Texas","1,879 km",17 hours 1 min,16 hours 37 mins,2024-11-23 23:00:00
+"Durham, North Carolina","San Jose, California","4,483 km",1 day 16 hours,1 day 16 hours,2024-11-23 23:00:00
+"Durham, North Carolina","Austin, Texas","2,157 km",19 hours 36 mins,19 hours 8 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Jacksonville, Florida",771 km,6 hours 51 mins,6 hours 46 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Fort Worth, Texas","1,931 km",17 hours 29 mins,17 hours 9 mins,2024-11-23 23:00:00
+"Durham, North Carolina","San Antonio, Texas","2,209 km",20 hours 0 mins,19 hours 29 mins,2024-11-23 23:00:00
+"Durham, North Carolina","Raleigh, North Carolina",40.7 km,33 mins,31 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Tampa, Florida","1,087 km",9 hours 54 mins,9 hours 43 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Tulsa, Oklahoma","1,833 km",16 hours 30 mins,16 hours 12 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Minneapolis, Minnesota","1,926 km",17 hours 53 mins,17 hours 32 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Oakland, California","4,533 km",1 day 17 hours,1 day 16 hours,2024-11-23 23:01:00
+"Durham, North Carolina","Virginia Beach, Virginia",323 km,3 hours 20 mins,3 hours 20 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Long Beach, California","4,093 km",1 day 13 hours,1 day 13 hours,2024-11-23 23:01:00
+"Durham, North Carolina","Omaha, Nebraska","1,953 km",18 hours 7 mins,17 hours 46 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Miami, Florida","1,337 km",11 hours 50 mins,11 hours 34 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Tucson, Arizona","3,412 km",1 day 7 hours,1 day 6 hours,2024-11-23 23:01:00
+"Durham, North Carolina","Kansas City, Missouri","1,681 km",15 hours 35 mins,15 hours 19 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Atlanta, Georgia",620 km,5 hours 49 mins,5 hours 41 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Sacramento, California","4,454 km",1 day 16 hours,1 day 16 hours,2024-11-23 23:01:00
+"Durham, North Carolina","Mesa, Arizona","3,459 km",1 day 7 hours,1 day 7 hours,2024-11-23 23:01:00
+"Durham, North Carolina","Fresno, California","4,273 km",1 day 14 hours,1 day 14 hours,2024-11-23 23:01:00
+"Durham, North Carolina","Albuquerque, New Mexico","2,810 km",1 day 1 hour,1 day 1 hour,2024-11-23 23:01:00
+"Durham, North Carolina","Milwaukee, Wisconsin","1,417 km",13 hours 23 mins,13 hours 7 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Arlington, Texas","1,911 km",17 hours 21 mins,16 hours 57 mins,2024-11-23 23:01:00
+"Durham, North Carolina","Colorado Springs, Colorado","2,623 km",1 day 0 hours,23 hours 30 mins,2024-11-23 23:01:00
+"Durham, North Carolina","New Orleans, Louisiana","1,373 km",12 hours 24 mins,12 hours 10 mins,2024-11-23 23:01:00
