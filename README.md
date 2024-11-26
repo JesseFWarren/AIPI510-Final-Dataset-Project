@@ -14,7 +14,7 @@ traffic_data_with_features.csv: The final dataset with additional engineered fea
 
 This dataset provides a comprehensive analysis of travel times and traffic delays from Durham, North Carolina to the 50 largest cities in the United States, addressing the growing need to understand how traffic impacts travel efficiency. By collecting real-time data on distances, durations, and delays, the dataset is designed to help commuters, city planners, and businesses make better decisions related to transportation and logistics.  
 
-What makes this dataset unique is its level of detail and focus. While existing traffic datasets often cover broader trends or specific regions, this dataset focuses on hourly, real-time data that captures the nuances of traffic patterns in urban areas. It also includes calculated metrics like average speed and traffic delay factors, offering insights that go beyond simple travel times. Futhermore, it is relavent to us here at Duke as all the data is travel times from Durham, North Carolina. Compared to other datasets in this domain, such as Google Traffic Reports or static Department of Transportation datasets, this one stands out because of its dynamic approach to understanding traffic conditions as it relates to Duke Students.  
+What makes this dataset unique is its level of detail and focus. While existing traffic datasets often cover broader trends or specific regions, this dataset focuses on hourly, real-time data and includes calculated metrics like average speed and traffic delay factors. Which opens insights that go beyond simple travel times. Futhermore, it is relavent to us here at Duke as all the data is travel times from Durham, North Carolina. Compared to other datasets in this domain, such as Google Traffic Reports or static Department of Transportation datasets, this one stands out because of its dynamic approach to understanding traffic conditions as it relates to Duke Students.  
 
 The data was ethically sourced using the Google Distance Matrix API to ensure accuracy and reliability. However, there are potential biases to consider:  
 City focus: The dataset is limited to travel to large cities and doesn’t include travel to rural or suburban areas.
@@ -107,8 +107,8 @@ Further data collection could help reveal further trends over a larger period of
 
 # License
 
-This dataset is distributed under the CC0 1.0 Universal (CC0 1.0 Public Domain Dedication). Meaning anyone is free to copy, modify, and distribute this dataset for both personal and commercial purposes.
+This dataset is distributed under CC0 1.0 Public Domain Dedication. Meaning anyone is free to copy, modify, and distribute this dataset for both personal and commercial purposes.
 
 # Ethics Statement
 
-The dataset was ethically sourced from public APIs (Google Distance Matrix API) using an API key and following all usage policies. Data collection was automated hourly to ensure unbiased and consistent sampling. Although there is a potential geographic bias as I focused on US cities as well as a small sample size for dates, I address this limitation in our analysis.
+The dataset was ethically sourced from public APIs (Google Distance Matrix API) using an API key and following all usage policies. Data collection was automated hourly to ensure unbiased and consistent sampling. Although there is a potential geographic bias as I focused on US cities as well as a small sample size for dates, I address this limitation in my analysis.
